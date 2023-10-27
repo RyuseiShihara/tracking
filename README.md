@@ -13,5 +13,5 @@
 
 
 ・デモ動画
-https://www.youtube.com/shorts/HCB6ao4Xulg
+https://www.youtube.com/shorts/HCB6ao4Xulg<br>
 上方向を入室、下方向を退出としたとき、このカメラを入口に設置した場所の人数を測定することができます。
